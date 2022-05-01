@@ -2,6 +2,7 @@ baseURL = 'http://ladybunne.net/'
 title = 'Bunnesite'
 theme = 'etch'
 languageCode = 'en-uk'
+publishDir = 'docs'
 
 enableInlineShortcodes = true
 pygmentsCodeFences = true
