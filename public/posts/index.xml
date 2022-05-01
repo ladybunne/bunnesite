@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bunnesite</title>
+    <link>http://ladybunne.net/posts/</link>
+    <description>Recent content in Posts on Bunnesite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 01 May 2022 21:12:29 +1000</lastBuildDate>
+    
+	<atom:link href="http://ladybunne.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>http://ladybunne.net/intro/</link>
+      <pubDate>Sun, 01 May 2022 21:12:29 +1000</pubDate>
+      
+      <guid>http://ladybunne.net/intro/</guid>
+      <description>&lt;p&gt;Hi. I&amp;rsquo;m Ladybunne, and this is my site. I&amp;rsquo;ve been meaning to remake this for quite some time. Sorry it&amp;rsquo;s taken so long.&lt;/p&gt;
+&lt;p&gt;I hope I didn&amp;rsquo;t keep you waiting.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t have much to say right now. I need to set the site up and get it working properly.&lt;/p&gt;
+&lt;p&gt;Talk to you soon.&lt;/p&gt;
+&lt;p&gt;-Ladybunne&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss>
