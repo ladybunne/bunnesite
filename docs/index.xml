@@ -2,22 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bunnesite</title>
-    <link>http://ladybunne.net/</link>
+    <link>https://ladybunne.net/</link>
     <description>Recent content on Bunnesite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 01 May 2022 21:12:29 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 17:18:15 +1000</lastBuildDate>
     
-	<atom:link href="http://ladybunne.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ladybunne.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Cloudy Monday</title>
+      <link>https://ladybunne.net/cloudy-monday/</link>
+      <pubDate>Mon, 02 May 2022 17:18:15 +1000</pubDate>
+      
+      <guid>https://ladybunne.net/cloudy-monday/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a pretty cloudy Monday today. I had a property valuation this morning - a valuer came out to take some pictures of my apartment. I&amp;rsquo;m hoping this doesn&amp;rsquo;t mean my landlord is intending to sell, because that would mean I&amp;rsquo;d have to move out, and I &lt;em&gt;really&lt;/em&gt; don&amp;rsquo;t want to do that.&lt;/p&gt;
+&lt;p&gt;But it was otherwise painless! My vacuum broke about half an hour before the valuer arrived, which was a hassle. I&amp;rsquo;ll have to see if I can put it back together at some point.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been thinking a lot about what sorts of things I want to write here. I&amp;rsquo;ve set myself two rules - be honest, and no deleting. That&amp;rsquo;s hard, because I don&amp;rsquo;t really want to leave a public trail of things that anyone can just come and learn about me&amp;hellip; but, maybe I should be less afraid of that. I think the alternative is kind of sad - who wants to look back and see 30 years of deleted memories?&lt;/p&gt;
+&lt;p&gt;So, here I am. Trying to use this site to be a bit more outspoken about myself. I&amp;rsquo;m intentionally using this instead of, say, Twitter or another algorithm-riddled site. It&amp;rsquo;s a bit more &amp;ldquo;pure&amp;rdquo;, and less engineered to grab/hold attention. This is just me expressing myself&amp;hellip; shouting into the void and seeing what happens.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll likely work on the format of this over time. I used to have a site that had both &amp;ldquo;posts&amp;rdquo; (long-form blog posts like this one) and &amp;ldquo;microposts&amp;rdquo; (like tweets but not on Twitter), and that worked well. I&amp;rsquo;ll see if I get around to adding that functionality in.&lt;/p&gt;
+&lt;p&gt;Otherwise, we&amp;rsquo;ll see how this whole site thing holds up. Fingers crossed it works out.&lt;/p&gt;
+&lt;p&gt;-Ladybunne&lt;/p&gt;
+</description>
+    </item>
     
     
     
     <item>
       <title>Intro</title>
-      <link>http://ladybunne.net/intro/</link>
+      <link>https://ladybunne.net/intro/</link>
       <pubDate>Sun, 01 May 2022 21:12:29 +1000</pubDate>
       
-      <guid>http://ladybunne.net/intro/</guid>
+      <guid>https://ladybunne.net/intro/</guid>
       <description>&lt;p&gt;Hi. I&amp;rsquo;m Ladybunne, and this is my site. I&amp;rsquo;ve been meaning to remake this for quite some time. Sorry it&amp;rsquo;s taken so long.&lt;/p&gt;
 &lt;p&gt;I hope I didn&amp;rsquo;t keep you waiting.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t have much to say right now. I need to set the site up and get it working properly.&lt;/p&gt;

@@ -1,4 +1,4 @@
-baseURL = 'http://ladybunne.net/'
+baseURL = 'https://ladybunne.net/'
 title = 'Bunnesite'
 theme = 'etch'
 languageCode = 'en-uk'
